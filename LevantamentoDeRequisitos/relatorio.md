@@ -1,0 +1,23 @@
+# Projeto CasaSegura: Panorama Geral e Perspectivas de Negócio
+
+A CPI Corporation, empresa atuante no setor de bens de consumo, mapeou uma oportunidade crescente no mercado de soluções para gerenciamento residencial. A proposta, originada pela área de marketing, consiste em desenvolver uma linha de produtos que possibilite a proprietários de imóveis e pequenos empreendedores o controle de suas instalações a partir de computadores, tablets ou smartphones. A base de hardware é composta por sensores sem fio — com dimensões aproximadas às de uma caixa de fósforos — que operam sobre o protocolo de comunicação 802.11n.
+
+## Funcionalidades Esperadas e Interação à Distância
+
+O sistema deverá reunir múltiplas funções, com destaque para a segurança residencial. Lisa, representante da equipe de marketing, reforça que o produto precisa permitir ao usuário o acompanhamento de sensores de intrusão, detecção de fumaça, alagamento e monóxido de carbono. Adicionalmente, o sistema deve ser capaz de acionar automaticamente uma central de monitoramento ou o celular do morador assim que alguma ocorrência crítica for identificada.
+
+Um recurso considerado central — e tratado como o principal apelo nas estratégias de comunicação — é a possibilidade de acesso pela Internet. A proposta é que o usuário, mesmo fora de casa, consiga acessar um portal seguro para verificar o status do sistema de alarme, ativá-lo ou desativá-lo remotamente e até mesmo reorganizar as zonas de segurança configuradas. Meredith, também da área de marketing, detalha que a função de vigilância por câmeras deve permitir a visualização de imagens em tempo real. Ela espera poder visualizar uma grade com miniaturas de todas as câmeras ao mesmo tempo e selecionar qualquer uma delas para ampliar, controlando remotamente a orientação e o zoom da câmera diretamente pelo navegador.
+
+Integram ainda a proposta funcionalidades voltadas à gestão doméstica, como o controle de dispositivos eletrônicos — incluindo iluminação e eletrodomésticos. O usuário poderá, por exemplo, regular a temperatura do ar-condicionado durante o trajeto de volta para casa ou configurar o acendimento e apagamento de luzes em horários variados durante uma ausência prolongada, criando a impressão de que o imóvel está habitado.
+
+## Interface e Facilidade de Uso
+
+Para o processo de instalação e configuração, o sistema deverá contar com uma ferramenta que permita ao usuário — ou a um administrador responsável — elaborar a planta do ambiente de forma intuitiva. Nessa interface, elementos como paredes, janelas e portas seriam representados por ícones que o usuário pode esticar e posicionar livremente sobre uma grade. Sensores e câmeras seriam então arrastados e soltos sobre essa planta para indicar sua posição física no espaço. Vinod e Jamie, da equipe de engenharia, reforçam que a interface deve ser padronizada e acessível o bastante para que o proprietário consiga operar o sistema sem precisar consultar manuais extensos.
+
+## Preocupações Técnicas e Limitações do Projeto
+
+Embora o hardware seja considerado acessível e amplamente disponível no mercado, Lee Warren alerta que o verdadeiro desafio reside no desenvolvimento do software. A equipe de engenharia demonstra preocupação com as responsabilidades técnicas e legais relacionadas à proteção do sistema contra tentativas externas de desativação via Internet. Doug Miller é enfático ao afirmar que qualquer modalidade de acesso remoto exige um portal totalmente seguro, com comunicação criptografada em todas as camadas.
+
+Em relação ao desempenho, o sistema precisa ser ágil: a detecção de um evento por qualquer sensor deve ser processada e reconhecida em menos de um segundo, e o sistema deve adotar um mecanismo de priorização para classificar os alertas recebidos. Em dispositivos móveis, a equipe deverá encontrar um equilíbrio entre desempenho e consumo de energia, garantindo que o aplicativo seja eficiente e não comprometa a autonomia da bateria. Também é esperado que o sistema suporte o acesso simultâneo de diferentes membros da família, com a possibilidade de atribuir níveis distintos de permissão — de modo que nem todos os usuários possam alterar as configurações do sistema.
+
+Por fim, a continuidade operacional é um requisito crítico: o monitoramento dos sensores deve funcionar de forma ininterrupta. Falhas de comunicação ou interrupções no fornecimento de energia devem ser identificadas e notificadas imediatamente, com ativação automática de uma bateria reserva sempre que necessário.
